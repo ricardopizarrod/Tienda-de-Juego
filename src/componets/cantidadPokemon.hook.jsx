@@ -1,6 +1,6 @@
-/* import React from 'react';
+import React from 'react';
 
-const cantidadPokemonHook = () => {
+const CantidadPokemonHook = () => {
     return (
         <React.Fragment>
             Unidades: 0
@@ -8,4 +8,4 @@ const cantidadPokemonHook = () => {
     );
 }
 
-export default cantidadPokemonHook; */
+export default CantidadPokemonHook;

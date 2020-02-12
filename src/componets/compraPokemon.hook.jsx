@@ -1,6 +1,6 @@
-/* import React from 'react';
+import React from 'react';
 
-const compraPokemonHook = () =>{
+const CompraPokemonHook = () => { 
     return (
         <div>
             <button className="btn btn-dark btn-sm mb-2" onClick={() => {
@@ -13,6 +13,5 @@ const compraPokemonHook = () =>{
     );
 }
 
-export default compraPokemonHook;
+export default CompraPokemonHook;
 
- */
