@@ -1,8 +1,8 @@
-/* import React, { Component } from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { buy_pokemon_action, return_pokemon_action } from '../redux/actions/gameShopAction';
 
-class compraPokemon extends Component {
+class CompraPokemon extends Component {
     render(){
         return(
             <div>
@@ -23,10 +23,10 @@ const mapDispatchToProps = {
 
 };
 
-export default connect(null, mapDispatchToProps)(compraPokemon);
- */
+export default connect(null, mapDispatchToProps)(CompraPokemon);
 
-import React, { Component } from 'react';
+
+/* import React, { Component } from 'react';
 class compraPokemon extends Component {
     render(){
         return(
@@ -38,4 +38,4 @@ class compraPokemon extends Component {
     }
 }
 
-export default compraPokemon;
+export default compraPokemon; */
